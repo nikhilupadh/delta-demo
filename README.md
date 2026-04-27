@@ -1,2 +1,3 @@
 # delta-demo
-This is demo class of Git And Githb 
+This is demo class of Git And Githb.
+
